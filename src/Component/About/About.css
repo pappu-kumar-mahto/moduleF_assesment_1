@@ -1,0 +1,9 @@
+.about{
+    position: absolute;
+    left: 20.3rem;
+    color: black;
+}
+.aboutContent{
+    padding: 15px;
+    font-size: 1.2rem;
+}

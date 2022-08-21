@@ -1,0 +1,27 @@
+.home{
+    position: absolute;
+    left: 20.3rem;
+    background: url("../../assets/timeSquare2.jpg");
+    width: 88%;
+    height: 100vh;
+}
+.home>h1{
+    position: absolute;
+    top: 1rem;
+    left: 3rem;
+    color: #EAECDA;
+    font-size: 3.5rem;
+}
+.home h3{
+    position: absolute;
+    top: 5.5rem;
+    left: 3.5rem;
+    font-size: 1.5rem;
+    color: #F2A112;
+}
+.icon{
+    position: absolute;
+    top: 2.5rem;
+    left: 3rem;
+    color: aliceblue;
+}

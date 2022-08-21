@@ -8,7 +8,7 @@ const Navbar = () => {
         <sapn>Explore</sapn>
       </div>
       <div className="navMenu">
-        <NavLink to="/home">
+        <NavLink to="/">
           <span>Home</span>
         </NavLink>
         <NavLink to="/place">

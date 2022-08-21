@@ -1,27 +1,29 @@
 .home{
     position: absolute;
     left: 20.3rem;
-    background: url("../../assets/timeSquare2.jpg");
+    background: url("../../assets/timeSquare.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
     width: 78%;
     height: 100vh;
 }
 .home>h1{
     position: absolute;
-    top: 3.5rem;
+    top: 4.9rem;
     left: 3rem;
-    color: #EAECDA;
-    font-size: 3.5rem;
+    color: white;
+    font-size: 4.5rem;
 }
 .home h3{
     position: absolute;
-    top: 7.5rem;
-    left: 3.5rem;
-    font-size: 1.5rem;
+    top: 10rem;
+    left: 4rem;
+    font-size: 2.9rem;
     color: #F2A112;
 }
 .icon{
     position: absolute;
     top: 2.5rem;
     left: 3rem;
-    color: aliceblue;
+    color: white;
 }

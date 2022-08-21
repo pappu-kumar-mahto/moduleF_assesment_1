@@ -8,26 +8,26 @@ const Navbar = () => {
         <sapn>Explore</sapn>
       </div>
       <div className="navMenu">
-        <NavLink to="/">
+        <NavLink className="navItem" to="/">
           <span>Home</span>
         </NavLink>
-        <NavLink to="/place">
+        <NavLink className="navItem" to="/places">
           <span>Place</span>
         </NavLink>
-        <NavLink to="/video">
+        <NavLink className="navItem" to="/video">
           <span>Video</span>
         </NavLink>
-        <NavLink to="/locations">
+        <NavLink className="navItem" to="/locations">
           <span>Locations</span>
         </NavLink>
-        <NavLink to="/about">
+        <NavLink className="navItem" to="/about">
           <span>About</span>
         </NavLink>
-        <NavLink to="/book">
-          <span>Book</span>
-        </NavLink>
-        <NavLink to="/photo">
+        <NavLink className="navItem" to="/photo">
           <span>Photos</span>
+        </NavLink>
+        <NavLink className="navItem" to="/book">
+          <span>Book</span>
         </NavLink>
       </div>
       <div className="learnMore details">

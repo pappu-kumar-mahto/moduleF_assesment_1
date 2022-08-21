@@ -1,0 +1,22 @@
+.place{
+    position: absolute;
+    top: 2rem;
+    left: 21.3rem;
+}
+.card-img-top{
+    margin: 5px auto;
+    height: 235px;
+    width: 235px;
+}
+.placeCard{
+    margin: 5px 0;
+    height: 480px;
+}
+.btn{
+    position: absolute;
+    bottom: 1rem;
+}
+.singePlaceCard{
+    margin: 15px auto;
+    height: 710px;
+}
